@@ -3,11 +3,11 @@ decorator==4.0.10
 docutils==0.12
 ebaysdk==2.1.5
 feedparser==5.2.1
-gevent==1.1.2 ; sys_platform != 'win32'
+gevent==1.2a1 ; sys_platform != 'win32'
 greenlet==0.4.10
 html2text==2016.9.19
 Jinja2==2.8
-lxml==3.7.1 ; sys_platform != 'win32'
+lxml==4.9.1 ; sys_platform != 'win32'
 lxml ; sys_platform == 'win32'
 Mako==1.0.4
 MarkupSafe==0.23
@@ -15,7 +15,7 @@ mock==2.0.0
 num2words==0.5.4
 ofxparse==0.16
 passlib==1.6.5
-Pillow==4.0.0
+Pillow==9.2.0
 psutil==4.3.1; sys_platform != 'win32'
 psycopg2==2.7.3.1; sys_platform != 'win32'
 pydot==1.2.3
