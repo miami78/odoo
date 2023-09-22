@@ -3,7 +3,7 @@ decorator==4.0.10
 docutils==0.12
 ebaysdk==2.1.5
 feedparser==5.2.1
-gevent==1.1.2 ; sys_platform != 'win32'
+gevent==23.9.0 ; sys_platform != 'win32'
 greenlet==0.4.10
 html2text==2016.9.19
 Jinja2==2.8
